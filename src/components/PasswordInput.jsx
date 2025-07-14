@@ -4,7 +4,7 @@ import StrengthBar from "./StrengthBar";
 import Checklist from "./Checklist";
 import { toast } from "react-toastify";
 import { FaClipboard, FaRandom } from "react-icons/fa";
-import generatePassword from "../utils/generatePassword";
+import generatePassword from "../Utils/generatePassword";
 
 let warned = false;
 
